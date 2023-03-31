@@ -13,7 +13,6 @@ The project is divided into multiple parts:
 - [ttm-types](https://github.com/TabletopManager/ttm-types/blob/main/README.md): This project contains all the types shared between the different parts of the project. It is written in rust and is not yet published on crates.io.
 - [ttm-frontend](https://github.com/TabletopManager/ttm-frontend/blob/main/README.md): This project contains the frontend of the project. It is written in rust using the yew library. It is not yet published on crates.io.
 - [ttm-backend](https://github.com/TabletopManager/ttm-backend/blob/main/README.md): This project contains the backend of the project. It is written in rust using the actix-web library. It is not yet published on crates.io.
-- [ttm-database](htps://github.com/TabletopManager/ttm-server/blob/main/README.md): This project contains the database of the project. It is written in rust. It is not yet published on crates.io.
 
 ### Future plans for content
 
